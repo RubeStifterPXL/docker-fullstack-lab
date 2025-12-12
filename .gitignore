@@ -21,3 +21,5 @@ dist
 # Vite cache
 .cache
 .vite
+
+# test
